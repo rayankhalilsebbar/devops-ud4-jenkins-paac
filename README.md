@@ -2,5 +2,6 @@
 
 Git / Maven / SonarQube / Nexus / Slack Notification
 
+Studied from devopshydclub/vprofile-project
 # Pipeline
-![Jenkins](jenkins.png)
+![Jenkins](jenkins-paac.png)
